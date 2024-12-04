@@ -1,0 +1,28 @@
+{"_default":
+  {
+    "1": {"ID": "E01", "Effect": "1", "Des": "\u6740\u866b"},
+    "2": {"ID": "E02", "Effect": "2", "Des": "\u9664\u8349"},
+    "3": {"ID": "E03", "Effect": "3", "Des": "\u53bb\u87a8"},
+    "4": {"ID": "E04", "Effect": "4", "Des": "\u6740\u83cc"},
+    "5": {"ID": "E05", "Effect": "5", "Des": "\u6297\u65f1"},
+    "6": {"ID": "E06", "Effect": "6", "Des": "\u6297\u5bd2"},
+    "7": {"ID": "E07", "Effect": "7", "Des": "\u6297\u75c5"},
+    "8": {"ID": "E08", "Effect": "8", "Des": "\u6297\u5012\u4f0f"},
+    "9": {"ID": "E09", "Effect": "9", "Des": "\u6297\u76d0\u78b1"},
+    "10": {"ID": "E10", "Effect": "10", "Des": "\u7740\u8272"},
+    "11": {"ID": "E11", "Effect": "11", "Des": "\u63d0\u9ad8\u542b\u7cd6"},
+    "12": {"ID": "E12", "Effect": "12", "Des": "\u4fc3\u8fdb\u830e\u53f6\u751f\u957f"},
+    "13": {"ID": "E13", "Effect": "13", "Des": "\u6291\u5236\u830e\u53f6\u751f\u957f"},
+    "14": {"ID": "E14", "Effect": "14", "Des": "\u4fc3\u8fdb\u751f\u6839"},
+    "15": {"ID": "E15", "Effect": "15", "Des": "\u4fc3\u8fdb\u751f\u957f"},
+    "16": {"ID": "E16", "Effect": "16", "Des": "\u4fc3\u8fdb\u53d1\u82bd"},
+    "17": {"ID": "E17", "Effect": "17", "Des": "\u4fc3\u8fdb\u5f00\u82b1"},
+    "18": {"ID": "E18", "Effect": "18", "Des": "\u5ef6\u957f\u4f11\u7720"},
+    "19": {"ID": "E19", "Effect": "19", "Des": "\u6253\u7834\u4f11\u7720"},
+    "20": {"ID": "E20", "Effect": "20", "Des": "\u4fdd\u82b1\u4fdd\u679c"},
+    "21": {"ID": "E21", "Effect": "21", "Des": "\u5ef6\u957f\u82b1\u671f"},
+    "22": {"ID": "E22", "Effect": "22", "Des": "\u4fc3\u8fdb\u6210\u719f"},
+    "23": {"ID": "E23", "Effect": "23", "Des": "\u5ef6\u7f13\u6210\u719f"},
+    "24": {"ID": "E24", "Effect": "24", "Des": "\u63d0\u9ad8\u7ed3\u5b9e\u7387"}
+  }
+}

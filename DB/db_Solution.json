@@ -1,0 +1,10 @@
+{"_default": {
+  "1": {"ID": "P01", "Des": "\u6392\u6c34", "Object": "H"},
+  "2": {"ID": "P02", "Des": "\u6539\u5584\u571f\u58e4\u76d0\u5206", "Object": "E"},
+  "3": {"ID": "P03", "Des": "\u6539\u5584\u571f\u58e4\u9178\u78b1", "Object": "PH"},
+  "4": {"ID": "P04", "Des": "\u6709\u673a\u80a5", "Object": "Yjf"},
+  "5": {"ID": "P05", "Des": "\u62a2\u6536", "Object": ["Cq","Qx","Sj"]},
+  "6": {"ID": "P06", "Des": "\u6574\u6cbb\u571f\u58e4", "Object": ["Sj"]},
+  "7": {"ID": "P07", "Des": "\u9694\u79bb\u6c34\u6e90", "Object": ["Sj"]},
+  "8": {"ID": "P08", "Des": "\u9a71\u8d76\u52a8\u7269", "Object": ["Sj"]}
+}}

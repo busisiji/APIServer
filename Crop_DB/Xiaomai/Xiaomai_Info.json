@@ -1,0 +1,13 @@
+{"_default":
+  {
+    "1": {"ID": "ST00", "Name": "\u79cd\u690d\u524d", "N": "0", "P": "0", "K": "0", "Check_S": "CK00", "Check_F": "CK00", "Check_G": "CK00", "Check_Y": "CK00", "Check_M": "CK00"},
+    "2": {"ID": "ST01", "Name": "\u51fa\u82d7", "N": "0", "P": "0", "K": "0", "Check_S": "CK01", "Check_F": "CK01", "Check_G": "CK01", "Check_Y": "CK01", "Check_M": "CK01"},
+    "3": {"ID": "ST02", "Name": "\u5206\u8616", "N": "0.15", "P": "0.2", "K": "0", "Check_S": "CK02", "Check_F": "CK02", "Check_G": "CK02", "Check_Y": "CK02", "Check_M": "CK02"},
+    "4": {"ID": "ST03", "Name": "\u62d4\u8282", "N": "0.25", "P": "0.3", "K": "0.35", "Check_S": "CK03", "Check_F": "CK03", "Check_G": "CK03", "Check_Y": "CK03", "Check_M": "CK03"},
+    "5": {"ID": "ST04", "Name": "\u62bd\u7a57", "N": "0.2", "P": "0.25", "K": "0.35", "Check_S": "CK04", "Check_F": "CK04", "Check_G": "CK04", "Check_Y": "CK04", "Check_M": "CK04"},
+    "6": {"ID": "ST05", "Name": "\u5f00\u82b1", "N": "0.2", "P": "0.15", "K": "0.2", "Check_S": "CK05", "Check_F": "CK05", "Check_G": "CK05", "Check_Y": "CK05", "Check_M": "CK05"},
+    "7": {"ID": "ST06", "Name": "\u4e73\u719f", "N": "0.1", "P": "0.05", "K": "0.05", "Check_S": "CK06", "Check_F": "CK06", "Check_G": "CK06", "Check_Y": "CK06", "Check_M": "CK06"},
+    "8": {"ID": "ST07", "Name": "\u814a\u719f", "N": "0.1", "P": "0.05", "K": "0.05", "Check_S": "CK07", "Check_F": "CK07", "Check_G": "CK07", "Check_Y": "CK07", "Check_M": "CK07"},
+    "9": {"ID": "ST08", "Name": "\u5b8c\u719f", "N": "0", "P": "0", "K": "0", "Check_S": "CK08", "Check_F": "CK08", "Check_G": "CK08", "Check_Y": "CK08", "Check_M": "CK08"}
+  }
+}
