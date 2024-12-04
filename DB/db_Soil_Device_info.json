@@ -1,0 +1,28 @@
+{"_default":
+  {
+    "1": {"ID": "Dev001", "Place": "A1", "Type": "T", "Name": "\u571f\u58e4\u6e29\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "1", "Start": "0", "End": "1"},
+    "2": {"ID": "Dev002", "Place": "A1", "Type": "H", "Name": "\u571f\u58e4\u6e7f\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "1", "Start": "1", "End": "1"},
+    "3": {"ID": "Dev003", "Place": "A1", "Type": "N", "Name": "\u6c2e", "IP": "192.168.12.3", "Port": "6677", "Addr": "2", "Start": "0", "End": "1"},
+    "4": {"ID": "Dev004", "Place": "A1", "Type": "P", "Name": "\u78f7", "IP": "192.168.12.3", "Port": "6677", "Addr": "2", "Start": "1", "End": "1"},
+    "5": {"ID": "Dev005", "Place": "A1", "Type": "K", "Name": "\u94be", "IP": "192.168.12.3", "Port": "6677", "Addr": "2", "Start": "2", "End": "1"},
+    "6": {"ID": "Dev006", "Place": "A1", "Type": "D", "Name": "\u542b\u6c34\u7387", "IP": "192.168.12.3", "Port": "6677", "Addr": "3", "Start": "0", "End": "1"},
+    "7": {"ID": "Dev007", "Place": "A1", "Type": "E", "Name": "\u7535\u5bfc\u7387", "IP": "192.168.12.3", "Port": "6677", "Addr": "3", "Start": "2", "End": "1"},
+    "8": {"ID": "Dev008", "Place": "A1", "Type": "PH", "Name": "\u9178\u78b1\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "3", "Start": "3", "End": "1"},
+    "9": {"ID": "Dev009", "Place": "B2", "Type": "T", "Name": "\u571f\u58e4\u6e29\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "4", "Start": "0", "End": "1"},
+    "10": {"ID": "Dev010", "Place": "B2", "Type": "H", "Name": "\u571f\u58e4\u6e7f\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "4", "Start": "1", "End": "1"},
+    "11": {"ID": "Dev011", "Place": "B2", "Type": "N", "Name": "\u6c2e", "IP": "192.168.12.3", "Port": "6677", "Addr": "5", "Start": "0", "End": "1"},
+    "12": {"ID": "Dev012", "Place": "B2", "Type": "P", "Name": "\u78f7", "IP": "192.168.12.3", "Port": "6677", "Addr": "5", "Start": "1", "End": "1"},
+    "13": {"ID": "Dev013", "Place": "B2", "Type": "K", "Name": "\u94be", "IP": "192.168.12.3", "Port": "6677", "Addr": "5", "Start": "2", "End": "1"},
+    "14": {"ID": "Dev014", "Place": "B2", "Type": "D", "Name": "\u542b\u6c34\u7387", "IP": "192.168.12.3", "Port": "6677", "Addr": "6", "Start": "0", "End": "1"},
+    "15": {"ID": "Dev015", "Place": "B2", "Type": "E", "Name": "\u7535\u5bfc\u7387", "IP": "192.168.12.3", "Port": "6677", "Addr": "6", "Start": "2", "End": "1"},
+    "16": {"ID": "Dev016", "Place": "B2", "Type": "PH", "Name": "\u9178\u78b1\u5ea6", "IP": "192.168.12.3", "Port": "6677", "Addr": "6", "Start": "3", "End": "1"},
+    "17": {"ID": "Dev017", "Place": "C3", "Type": "T", "Name": "\u571f\u58e4\u6e29\u5ea6", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "0", "End": "1"},
+    "18": {"ID": "Dev018", "Place": "C3", "Type": "H", "Name": "\u571f\u58e4\u6e7f\u5ea6", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "1", "End": "1"},
+    "19": {"ID": "Dev019", "Place": "C3", "Type": "N", "Name": "\u6c2e", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "2", "End": "1"},
+    "20": {"ID": "Dev020", "Place": "C3", "Type": "P", "Name": "\u78f7", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "3", "End": "1"},
+    "21": {"ID": "Dev021", "Place": "C3", "Type": "K", "Name": "\u94be", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "4", "End": "1"},
+    "22": {"ID": "Dev022", "Place": "C3", "Type": "D", "Name": "\u542b\u6c34\u7387", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "5", "End": "1"},
+    "23": {"ID": "Dev023", "Place": "C3", "Type": "E", "Name": "\u7535\u5bfc\u7387", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "7", "End": "1"},
+    "24": {"ID": "Dev024", "Place": "C3", "Type": "PH", "Name": "\u9178\u78b1\u5ea6", "IP": "192.168.12.2", "Port": "8899", "Addr": "1", "Start": "8", "End": "1"}
+  }
+}

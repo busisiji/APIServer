@@ -1,0 +1,10 @@
+{"_default": {
+  "1": {
+    "Thread": "4",
+    "F_water": "0.5",
+    "S_zhengfa": "0.75", "S_water": "0.5", "S_door": "0.07", "S_add": "0.02",
+    "G_lack": "0.05", "G_disa": "0.08", "G_water": "0.5", "G_door": "0.2", "G_add": "0",
+    "Y_lack": "0.25", "Y_disa": "0.3", "Y_water": "0.5", "Y_door": "0.2", "Y_add": "0",
+    "M_disa": "0.01", "M_water": "0.5", "M_door": "0.5", "M_add": "0.02"
+  }
+}}

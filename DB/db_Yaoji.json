@@ -1,0 +1,18 @@
+{"_default": {
+  "1": {"ID": "J01", "Name": "\u5421\u866b\u5549", "Amount": 15, "Type": "Y", "Effect": [1], "Des": "\u6740\u866b\u5242"},
+  "2": {"ID": "J02", "Name": "\u544b\u866b\u80fa", "Amount": 1000, "Type": "Y", "Effect": [1], "Des": "\u6740\u866b\u5242"},
+  "3": {"ID": "J03", "Name": "\u567b\u866b\u55ea", "Amount": 4, "Type": "Y", "Effect": [1], "Des": "\u6740\u866b\u5242"},
+  "4": {"ID": "J04", "Name": "\u6c30\u866b\u9170\u80fa", "Amount": 40, "Type": "Y", "Effect": [1], "Des": "\u6740\u866b\u5242"},
+  "5": {"ID": "J05", "Name": "\u620a\u5511\u9187", "Amount": 50, "Type": "Y", "Effect": [4], "Des": "\u6740\u83cc\u5242"},
+  "6": {"ID": "J06", "Name": "\u809f\u83cc\u916f", "Amount": 15, "Type": "Y", "Effect": [4], "Des": "\u6740\u83cc\u5242"},
+  "7": {"ID": "J07", "Name": "\u591a\u83cc\u7075", "Amount": 160, "Type": "Y", "Effect": [4], "Des": "\u6740\u83cc\u5242"},
+  "8": {"ID": "J08", "Name": "\u767d\u50f5\u83cc", "Amount": 10, "Type": "Y", "Effect": [4], "Des": "\u6740\u83cc\u5242"},
+  "9": {"ID": "J09", "Name": "\u8349\u7518\u81a6", "Amount": 10, "Type": "Y", "Effect": [2], "Des": "\u9664\u8349\u5242"},
+  "10": {"ID": "J10", "Name": "\u8349\u94f5\u81a6", "Amount": 10, "Type": "Y", "Effect": [2], "Des": "\u9664\u8349\u5242"},
+  "11": {"ID": "J11", "Name": "\u6c2f\u5421\u8132", "Amount": 10, "Type": "G", "Effect": [17], "Des": "\u8c03\u8282\u5242"},
+  "12": {"ID": "J12", "Name": "\u8d64\u9709\u7d20", "Amount": 10, "Type": "G", "Effect": [12, 16, 17, 24], "Des": "\u8c03\u8282\u5242"},
+  "13": {"ID": "J13", "Name": "\u80fa\u9c9c\u916f", "Amount": 10, "Type": "G", "Effect": [14], "Des": "\u8c03\u8282\u5242"},
+  "14": {"ID": "J14", "Name": "\u77ee\u58ee\u7d20", "Amount": 10, "Type": "G", "Effect": [13, 5, 8, 9], "Des": "\u8c03\u8282\u5242"},
+  "15": {"ID": "J15", "Name": "\u8c03\u8282\u81a6", "Amount": 10, "Type": "G", "Effect": [9], "Des": "\u8c03\u8282\u5242"},
+  "16": {"ID": "J16", "Name": "\u82b8\u82d4\u7d20", "Amount": 10, "Type": "G", "Effect": [14, 20, 5, 6, 9], "Des": "\u8c03\u8282\u5242"}
+}}

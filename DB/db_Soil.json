@@ -1,0 +1,10 @@
+{"_default":
+  {
+    "1": {"ID": "S1", "Name": "\u4e1c\u5317\u5730\u533a", "Join": "Soil_Northeast_China"},
+    "2": {"ID": "S2", "Name": "\u534e\u5317\u5730\u533a", "Join": "Soil_North_China"},
+    "3": {"ID": "S3", "Name": "\u897f\u5357\u5730\u533a", "Join": "Soil_Southwest_China"},
+    "4": {"ID": "S4", "Name": "\u534e\u5357\u5730\u533a", "Join": "Soil_South_China"},
+    "5": {"ID": "S5", "Name": "\u897f\u5317\u5730\u533a", "Join": "Soil_Northwest_China"},
+    "6": {"ID": "S6", "Name": "\u534e\u4e2d\u5730\u533a", "Join": "Soil_Central_China"}
+  }
+}
